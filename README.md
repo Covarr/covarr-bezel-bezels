@@ -17,7 +17,8 @@ While these are all intended for the TrimUI Smart Pro, they should also work gre
 - Coming Soon
 
 ## :clipboard: Installation & Setup
-> [!NOTE] These directions are written for TrimUI Smart Pro. They may need adjustments for use on other devices.
+> [!NOTE]
+>  These directions are written for TrimUI Smart Pro. They may need adjustments for use on other devices.
 
 ### Prerequisites
 - A working TrimUI Smart Pro

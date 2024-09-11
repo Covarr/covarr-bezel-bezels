@@ -1,5 +1,21 @@
 # Covarr's Bezel-Bezels
 
+## :book: Table of Contents
+- [Covarr's Bezel-Bezels](#covarrs-bezel-bezels)
+  - [:book: Table of Contents](#book-table-of-contents)
+  - [:bulb: What is this?](#bulb-what-is-this)
+  - [:camera: Screenshots](#camera-screenshots)
+  - [:clipboard: Installation \& Setup](#clipboard-installation--setup)
+    - [Prerequisites](#prerequisites)
+    - [Directions](#directions)
+    - [Optional Shader Configuration](#optional-shader-configuration)
+    - [Gambatte-Specific Configuration](#gambatte-specific-configuration)
+  - [:white\_check\_mark: System Presets](#white_check_mark-system-presets)
+  - [:memo: Notes](#memo-notes)
+  - [:question: Maybe Asked Questions](#question-maybe-asked-questions)
+  - [:inbox\_tray: To Do](#inbox_tray-to-do)
+  - [:mega: Credits \& Thanks](#mega-credits--thanks)
+
 ## :bulb: What is this?
 
 **In short,** a pack of pixel-perfect 16:9 720p Retroarch overlays for handheld systems based on the actual bezels of the original handhelds.

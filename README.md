@@ -43,7 +43,7 @@ While these are all intended for the TrimUI Smart Pro, they should also work gre
 
 ### Directions
 1. Download and extract the latest `Covarr_Bezel-Bezels_TSP` archive from the release page.
-2. Insert your microSD card and copy the `Covarr_Bezel-Bezels_TSP` folder to `(YourCard):\RetroArch.retroarch\overlay`
+2. Insert your microSD card and copy the `Covarr_Bezel-Bezels_TSP` folder to `(YourCard):\RetroArch\.retroarch\overlay`
 3. Put the microSD card into your device and start it up.
 4. Launch a game for the system you wish to set up.
 5. Press the `Menu` button, and select `Advanced Menu`.

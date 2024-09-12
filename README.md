@@ -1,5 +1,7 @@
 # Covarr's Bezel-Bezels
 
+![Covarr's Bezel-Bezels Header Image](images/header.png)
+
 ## :book: Table of Contents
 - [Covarr's Bezel-Bezels](#covarrs-bezel-bezels)
   - [:book: Table of Contents](#book-table-of-contents)
@@ -30,7 +32,41 @@ While these are all intended for the TrimUI Smart Pro, they should also work gre
 
 ## :camera: Screenshots
 
-- Coming Soon
+<details>
+<summary>Game Boy Pocket</summary>
+
+![Game Boy Pocket screenshot](images/screenshot_gbp.png)
+
+</details>
+
+<details>
+<summary>Game Boy Color</summary>
+
+![Game Boy Color screenshot](images/screenshot_gbc.png)
+
+</details>
+
+<details>
+<summary>Game Boy Advance</summary>
+
+![Game Boy Advance screenshot](images/screenshot_gba.png)
+
+</details>
+
+<details>
+<summary>Game Gear</summary>
+
+![Game Gear screenshot](images/screenshot_gg.png)
+
+</details>
+
+
+<details>
+<summary>Neo Geo Pocket Color</summary>
+
+![Neo Geo Pocket Color screenshot](images/screenshot_ngpc.png)
+
+</details>
 
 ## :clipboard: Installation & Setup
 > [!NOTE]
@@ -118,44 +154,57 @@ While these are all intended for the TrimUI Smart Pro, they should also work gre
 
 <details>
 <summary><b>Why are there only handheld systems in here?</b></summary>
-<p>The purpose of this pack is to provide overlays based on the physical bezels of handhelds' original hardware. When you play a console, you're not looking at the system, you're looking at a television. More talented people than myself have already made some quite nice overlays based on TVs, as well as artwork based on console hardware.</p>
+
+The purpose of this pack is to provide overlays based on the physical bezels of handhelds' original hardware. When you play a console, you're not looking at the system, you're looking at a television. More talented people than myself have already made some quite nice overlays based on TVs, as well as artwork based on console hardware.
+
 </details>
 
 <details>
 <summary><b>What about this other handheld system?</b></summary>
-<p>There are a plethora of reasons I might not do a particular system:</p>
-<ul><li>If it doesn't have a standard bezel to speak of (PSP, PS Vita, PSOne, Game Boy Micro, Atari Lynx II, Game.com), it's outside the scope of this project.</li>
-<li>If the bezel doesn't have any identifying marks or logos (Sega Nomad, DS Lite), it's not a guaranteed "no" but it is a lower priority, since there's little benefit to this type of overlay for these systems.</li>
-<li>If it doesn't have a RetroArch core that runs acceptably on the TrimUI Smart Pro (Game.com, PS Vita, DS, DS Lite), there's no way to apply it so there's no point making one.</li>
-<li>If the system is already a 16:9 aspect ratio or extremely close (PSP, PS Vita), you're better off just not using an overlay.</li>
-<li>If it's a calculator (TI-83), trying to emulate it on a handheld without a touchscreen will be an _awful_ time and I don't want anything to do with it.</li>
-<li>If it's a handheld version of a TV console (PSOne, Sega Nomad), I'm not interested; I'd prefer to use a TV bezel instead.</li>
+
+There are a plethora of reasons I might not do a particular system:
+
+- If it doesn't have a standard bezel to speak of (PSP, PS Vita, PSOne, Game Boy Micro, Atari Lynx II, Game.com), it's outside the scope of this project.
+- If the bezel doesn't have any identifying marks or logos (Sega Nomad, DS Lite), it's not a guaranteed "no" but it is a lower priority, since there's little benefit to this type of overlay for these systems.
+- If it doesn't have a RetroArch core that runs acceptably on the TrimUI Smart Pro (Game.com, PS Vita, DS, DS Lite), there's no way to apply it, so there's no point making one.
+- If the system is already a 16:9 aspect ratio or extremely close (PSP, PS Vita), you're better off just not using an overlay.
+- If it's a calculator (TI-83), trying to emulate it on a handheld without a touchscreen will be an _awful_ time and I don't want anything to do with it.
+- If it's a handheld version of a TV console (PSOne, Sega Nomad), I'm not interested; I'd prefer to use a TV bezel instead.
 
 I did experiment with PSP anyway, and found that there was no way to make it not look stupid. It has buttons inline with the logo; including them meant including purely aesthetic non-pushable buttons, something I explicitly wanted to avoid, and omitting them looked really weird and inauthentic.
+
 </details>
 
 <details>
 <summary><b>Why are there no color alternates for some handhelds?</b></summary>
+
 While many '90s and '00s handheld systems came in several different colors, those differences didn't usually extend to the bezel. I've included them where they make sense, but they really don't for most systems.
+
 </details>
 
 <details>
 <summary><b>Any plans to support other resolutions?</b></summary>
-<p>At least to begin with, this is something I'm mainly making for myself, so I'm more interested in supporting my own devices (I own a TrimUI Smart Pro and a Steam Deck). I'm not _opposed_ to making alternates for other resolutions or sizes of handhelds if people want them, though. 1080p is an obvious and likely candidate due to a fairly broad range of devices that use it. 750p is also under consideration, since even though only a few devices use it that I'm aware of (the Retroid Pocket 3/4 lines), they are fairly popular devices for emulation.</p>
 
-<p>Very few handhelds have 1200p or 1600p displays, and I can't find any at all that run at 1440p, so I won't be making anything for these resolutions unless I see _significant_ demand, which I do not expect.</p>
+At least to begin with, this is something I'm mainly making for myself, so I'm more interested in supporting my own devices (I own a TrimUI Smart Pro and a Steam Deck). I'm not _opposed_ to making alternates for other resolutions or sizes of handhelds if people want them, though. 1080p is an obvious and likely candidate due to a fairly broad range of devices that use it. 750p is also under consideration, since even though only a few devices use it that I'm aware of (the Retroid Pocket 3/4 lines), they are fairly popular devices for emulation.
+
+Very few handhelds have 1200p or 1600p displays, and I can't find any at all that run at 1440p, so I won't be making anything for these resolutions unless I see _significant_ demand, which I do not expect.
+
 </details>
 
 <details>
 <summary><b>Why are Game Gear games narrower than the real thing?</b></summary>
-<p>The Game Gear is kind of an outlier. The screen has the same resolution as the GB/GBC, but the pixels are wider than they are tall, giving it a 4:3 aspect ratio. Unfortunately, this pack's goal of using exact integers for clean pixel counts doesn't play nice with the Game Gear's oddball screen. I had to make a choice, and I chose consistency with the pack over accuracy to the original system. This decision was also impacted by the Game Gear's library containing a significant number of ports from Sega Master System, a system which did, in fact, render square pixels.</p>
 
-<p>That being said, if there proves to be demand for a 4:3 alternate, I'm open to creating one at some point down the line. Just be prepared for a bit of shimmering, and don't expect LCD shaders to look as good as they might for other systems.</p>
+The Game Gear is kind of an outlier. The screen has the same resolution as the GB/GBC, but the pixels are wider than they are tall, giving it a 4:3 aspect ratio. Unfortunately, this pack's goal of using exact integers for clean pixel counts doesn't play nice with the Game Gear's oddball screen. I had to make a choice, and I chose consistency with the pack over accuracy to the original system. This decision was also impacted by the Game Gear's library containing a significant number of ports from Sega Master System, a system which did, in fact, render square pixels.
+
+That being said, if there proves to be demand for a 4:3 alternate, I'm open to creating one at some point down the line. Just be prepared for a bit of shimmering, and don't expect LCD shaders to look as good as they might for other systems.
+
 </details>
 
 <details>
 <summary><b>What about a vertical layout for DS?</b></summary>
+
 Trust me, you don't want this.
+
 </details>
 
 ## :inbox_tray: To Do

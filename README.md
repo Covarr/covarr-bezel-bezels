@@ -88,11 +88,11 @@ While these are all intended for the TrimUI Smart Pro, they should also work gre
 8. Choose an appropriate config file for the system you are configuring.
 9. Select `Overlay Opacity` and set it to `1.00`. You can set the value lower if you'd like an overlay to be darker (especially handy with WonderSwan and other systems with very light bezels).
 10. Press B twice to return first to the Quick Menu and then to the RetroArch main menu.
-11. Press left and select `Settings`, then select `Video`.
+11. Select `Settings`, then select `Video`.
 12. Select `Scaling`.
 13. Scroll down to `Aspect Ratio` and press right until `Custom` is selected.
 14. Set the appropriate numbers for position and width/height as provided in the System Presets chart below.
-15. Press B twice to return to the main Settings menu, select `Main Menu` on the left, then select `Quick Menu`.
+15. Press B twice to return to the main Settings menu, select `Main Menu`, then select `Quick Menu`.
 16. Select `Overrides`, and then `Save Content Directory Overrides`.
 17. If you wish to use shaders, continue to Optional Shader Configuration. Otherwise, repeat from step 4 onward for all desired systems.
 

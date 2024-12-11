@@ -1,3 +1,5 @@
 
 /unused
 thumbs.db
+*.afphoto~lock~
+/.vscode
